@@ -1,21 +1,2 @@
 Merhaba 👋
-Spotify Playing 🎧
-codeSTACKr Spotify Playing
-
-Connect with me:
-codeSTACKr | YouTubecodeSTACKr | Discord
-
-
-Languages and Tools:
-Visual Studio Code
-
-JavaScript
-
-Node.js
-
-Python
-
-
-
-GitHub Stats
-stats
+ben nexis isteğe göre bot kod yazıyorum sende istersen Nexis#9000 discord adresime yaza bilirsin
